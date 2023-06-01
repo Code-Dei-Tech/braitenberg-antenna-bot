@@ -1,9 +1,9 @@
 # Source Files for the Antenna-based Braitenberg Robot
 ------------------------------------------------------
 
-Hans Verdolaga
-Developed as part of the MSc Mechatronics Master's Thesis 2023
-Department of Mechanical and Electrical Engineering
+Hans Verdolaga  
+Developed as part of the MSc Mechatronics Master's Thesis 2023  
+Department of Mechanical and Electrical Engineering  
 University of Southern Denmark (SDU)
 
 ------------------------------------------------------
