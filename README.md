@@ -51,7 +51,28 @@ seeking inside the plume.
 
 ------------------------------------------------------
 
-## Robot Design: TODO
+## Robot Design
+###  Software 
+
+[//]: # (Diagram of robot's software architecture)
+
+The robot's software is divided into three main components: the Rock Pi 4C Plus microcontroller, the Arduino microcontrollers, and the user control scripts. 
+
+The Rock Pi 4C Plus microcontroller is the main processor of the robot and is responsible for the following tasks:
+- Finite state machine (FSM) control
+- Sensor data processing
+- Braitenberg target velocity calculation
+- Servo motor trajectory generation
+- Commanding the Arduino microcontrollers
+- Logging configuration, sensor and motor velocity data
+- Receiving and executing user commands via MQTT
+
+
+### Hardware
+
+
+[//]: # (Diagram of robot's hardware architecture)
+
 
 ------------------------------------------------------
 
